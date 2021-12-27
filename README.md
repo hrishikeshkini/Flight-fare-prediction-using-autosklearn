@@ -9,7 +9,7 @@ In this project we will be predicting the Fare of a flight a person has to give 
   * [Bugs & Logs](#bugs--logs)
   * [Contributors](#contributors)
 
-![Screenshot](download.png)
+![Screenshot](download.jpg)
 
 
 ## Problem Statement
